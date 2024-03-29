@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://ashvek18.io)
 <h1 align="center">Hi 👋, I'm Ashvek Padwal</h1>
-<h3 align="center">A fourth-year Information Technology student with a strong passion for web development and a solid understanding of React.js.</h3>
+<br/>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashvek18&label=Profile%20views&color=0e75b6&style=flat" alt="ashvek18" /> </p>
