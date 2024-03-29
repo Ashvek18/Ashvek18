@@ -1,3 +1,4 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif))]
 <h1 align="center">Hi 👋, I'm Ashvek Padwal</h1>
 <h3 align="center">Hello there! I'm a fourth-year Information Technology student with a strong passion for web development and a solid understanding of React.js.</h3>
 
