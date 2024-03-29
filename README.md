@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashvek Padwal</h1>
 <h3 align="center">A fourth-year Information Technology student with a strong passion for web development and a solid understanding of React.js.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"/>
+<br/><br/><br/>
 
 - 🔭 I’m currently working on My [BE-Final Year Project](https://github.com/Ashvek18/Final-Year-Project)
 
