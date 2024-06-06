@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on My BE-Final Year Project<br><br>🌱 I’m currently learning Backend Development<br><br>💬 Ask me about Reactjs,Nextjs,Bootstrap,Tailwind...<br><br>📫 How to reach me ashwekpadwal123@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/1Js4XYAqiPPKv_HFj_u2qtk-NJ2wtsMda
+🔭 I’m currently working on Learning new techs<br><br>🌱 I’m currently learning Frontend Development<br><br>💬 Ask me about Reactjs,Nextjs,Bootstrap,Tailwind...<br><br>📫 How to reach me ashwekpadwal123@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/1Js4XYAqiPPKv_HFj_u2qtk-NJ2wtsMda
 
 
 ## 🌐 Socials:
